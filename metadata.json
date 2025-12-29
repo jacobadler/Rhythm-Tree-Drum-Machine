@@ -1,0 +1,5 @@
+{
+  "name": "Rhythm Tree Explorer",
+  "description": "An interactive drum machine visualizing the Tree of Rhythm. Explore musical subdivisions from whole notes down to 32nd notes in a proportional, interactive interface.",
+  "requestFramePermissions": []
+}
